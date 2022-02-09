@@ -1,0 +1,23 @@
+[
+    {
+        "_id": 0,
+        "name": "Harrsh Patel",
+        "car": "GJ27-CM-1916",
+        "houseNumber": 232,
+        "contact": 9099976321
+    },
+    {
+        "_id": 1,
+        "name": "Harrsh Patel",
+        "car": "GJ27-CM-1916",
+        "houseNumber": 221,
+        "contact": 9099976321
+    },
+    {
+        "_id": 2,
+        "name": "Harrsh Patel",
+        "car": "GJ27-CM-3016",
+        "houseNumber": 231,
+        "contact": 9773195484
+    }
+]
